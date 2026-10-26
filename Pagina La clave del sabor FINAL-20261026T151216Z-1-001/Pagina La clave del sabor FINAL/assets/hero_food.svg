@@ -1,0 +1,63 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mesa de comida colombiana">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7d9a8"/>
+      <stop offset="100%" stop-color="#d38b4f"/>
+    </linearGradient>
+    <linearGradient id="plate" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f0efe9"/>
+    </linearGradient>
+    <linearGradient id="soup" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d6a76a"/>
+      <stop offset="100%" stop-color="#b9844b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="540" cy="540" r="230" fill="#f7f0e3" opacity="0.7"/>
+  <ellipse cx="555" cy="555" rx="265" ry="155" fill="url(#plate)"/>
+  <ellipse cx="555" cy="555" rx="220" ry="118" fill="#f3edde"/>
+
+  <g transform="translate(0,-10)">
+    <ellipse cx="483" cy="532" rx="72" ry="42" fill="#f6d577"/>
+    <ellipse cx="643" cy="520" rx="74" ry="44" fill="#e7b85f"/>
+    <ellipse cx="560" cy="592" rx="80" ry="50" fill="#d4955d"/>
+
+    <circle cx="453" cy="498" r="26" fill="#d7b06c"/>
+    <circle cx="680" cy="502" r="24" fill="#d7b06c"/>
+    <circle cx="560" cy="645" r="32" fill="#d7b06c"/>
+
+    <path d="M405 610 C470 555, 518 567, 552 612 C586 660, 632 663, 687 610 C672 692, 605 734, 551 734 C493 734, 423 687, 405 610Z" fill="#e3b972" opacity="0.9"/>
+    <path d="M420 555 C470 540, 514 548, 548 572 C585 596, 632 594, 670 560 C685 642, 627 692, 548 704 C480 714, 424 659, 420 555Z" fill="url(#soup)" opacity="0.9"/>
+
+    <g fill="#6f8b36">
+      <ellipse cx="488" cy="573" rx="16" ry="22"/>
+      <ellipse cx="522" cy="591" rx="18" ry="24"/>
+      <ellipse cx="575" cy="586" rx="17" ry="26"/>
+      <ellipse cx="618" cy="568" rx="18" ry="22"/>
+      <ellipse cx="692" cy="590" rx="18" ry="24"/>
+    </g>
+
+    <g fill="#c64d3e">
+      <ellipse cx="470" cy="625" rx="15" ry="18"/>
+      <ellipse cx="603" cy="628" rx="16" ry="17"/>
+      <ellipse cx="541" cy="662" rx="17" ry="18"/>
+    </g>
+
+    <g fill="#f5f0e3">
+      <ellipse cx="666" cy="503" rx="22" ry="18"/>
+      <ellipse cx="502" cy="491" rx="18" ry="16"/>
+      <ellipse cx="575" cy="659" rx="18" ry="16"/>
+    </g>
+  </g>
+
+  <g opacity="0.92">
+    <rect x="160" y="270" width="160" height="18" rx="9" fill="#7c4d2d"/>
+    <rect x="175" y="238" width="130" height="36" rx="18" fill="#c28c52"/>
+    <rect x="187" y="222" width="108" height="18" rx="9" fill="#d9b178"/>
+
+    <rect x="820" y="280" width="190" height="18" rx="9" fill="#7c4d2d"/>
+    <rect x="840" y="245" width="160" height="36" rx="18" fill="#c28c52"/>
+    <rect x="853" y="230" width="134" height="18" rx="9" fill="#d9b178"/>
+  </g>
+</svg>

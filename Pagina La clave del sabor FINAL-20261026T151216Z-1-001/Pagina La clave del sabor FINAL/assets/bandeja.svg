@@ -1,0 +1,57 @@
+<svg width="900" height="640" viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bandeja paisa con carne, arroz, frijoles, huevo, plátano y aguacate">
+  <defs>
+    <linearGradient id="bgB" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f7dca5"/>
+      <stop offset="100%" stop-color="#df9b49"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="640" fill="url(#bgB)"/>
+
+  <ellipse cx="450" cy="340" rx="300" ry="190" fill="#f8f4eb"/>
+  <ellipse cx="450" cy="340" rx="255" ry="155" fill="#f0eadf"/>
+
+  <g>
+    <ellipse cx="270" cy="348" rx="78" ry="44" fill="#f3d57c"/>
+    <ellipse cx="637" cy="348" rx="78" ry="44" fill="#f3d57c"/>
+    <ellipse cx="450" cy="286" rx="150" ry="76" fill="#e5a35b"/>
+    <ellipse cx="450" cy="418" rx="180" ry="86" fill="#c7563a"/>
+
+    <g fill="#d88d3f">
+      <ellipse cx="414" cy="255" rx="46" ry="30"/>
+      <ellipse cx="488" cy="255" rx="46" ry="30"/>
+      <ellipse cx="452" cy="340" rx="70" ry="34"/>
+    </g>
+
+    <g fill="#7b9b2a">
+      <ellipse cx="336" cy="346" rx="24" ry="28"/>
+      <ellipse cx="372" cy="328" rx="20" ry="24"/>
+      <ellipse cx="545" cy="344" rx="24" ry="28"/>
+      <ellipse cx="585" cy="330" rx="20" ry="24"/>
+    </g>
+
+    <g fill="#f6d66d">
+      <ellipse cx="450" cy="362" rx="86" ry="40"/>
+      <ellipse cx="447" cy="425" rx="74" ry="32"/>
+    </g>
+
+    <g fill="#f8f5ef">
+      <ellipse cx="442" cy="438" rx="62" ry="24"/>
+      <ellipse cx="442" cy="452" rx="48" ry="20"/>
+    </g>
+
+    <g fill="#f0bc4f">
+      <ellipse cx="327" cy="420" rx="38" ry="24"/>
+      <ellipse cx="573" cy="420" rx="38" ry="24"/>
+    </g>
+
+    <g fill="#8a9d3b">
+      <ellipse cx="228" cy="365" rx="32" ry="18"/>
+      <ellipse cx="673" cy="365" rx="32" ry="18"/>
+    </g>
+
+    <g fill="#5b9d57">
+      <ellipse cx="330" cy="442" rx="44" ry="26"/>
+      <ellipse cx="574" cy="440" rx="42" ry="25"/>
+    </g>
+  </g>
+</svg>

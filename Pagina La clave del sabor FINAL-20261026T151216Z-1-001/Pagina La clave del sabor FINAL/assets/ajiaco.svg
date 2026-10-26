@@ -1,0 +1,41 @@
+<svg width="900" height="640" viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ajiaco santafereño con pollo, papa, guascas y maíz">
+  <defs>
+    <linearGradient id="bgA" x1="0" x2="1">
+      <stop offset="0%" stop-color="#bfe2dc"/>
+      <stop offset="100%" stop-color="#7ea9a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="640" fill="url(#bgA)"/>
+
+  <ellipse cx="450" cy="350" rx="310" ry="180" fill="#f9f6f1"/>
+  <ellipse cx="450" cy="350" rx="260" ry="146" fill="#ecf5f4"/>
+
+  <path d="M250 372 C290 278, 610 276, 655 372 C650 470, 250 472, 250 372Z" fill="#d39a56"/>
+  <path d="M282 370 C322 310, 578 308, 622 370 C620 440, 298 442, 282 370Z" fill="#cf8d46"/>
+
+  <g fill="#cdb96d">
+    <ellipse cx="340" cy="332" rx="42" ry="28"/>
+    <ellipse cx="430" cy="304" rx="40" ry="26"/>
+    <ellipse cx="520" cy="330" rx="46" ry="30"/>
+    <ellipse cx="600" cy="345" rx="38" ry="24"/>
+  </g>
+
+  <g fill="#7b9b32">
+    <ellipse cx="335" cy="382" rx="18" ry="26"/>
+    <ellipse cx="402" cy="390" rx="18" ry="26"/>
+    <ellipse cx="475" cy="388" rx="18" ry="26"/>
+    <ellipse cx="550" cy="382" rx="18" ry="26"/>
+  </g>
+
+  <g fill="#d36a47">
+    <ellipse cx="430" cy="435" rx="22" ry="18"/>
+    <ellipse cx="495" cy="426" rx="22" ry="18"/>
+    <ellipse cx="350" cy="430" rx="20" ry="18"/>
+  </g>
+
+  <g fill="#f6efe6">
+    <ellipse cx="230" cy="328" rx="28" ry="20"/>
+    <ellipse cx="660" cy="322" rx="28" ry="20"/>
+    <ellipse cx="450" cy="248" rx="34" ry="20"/>
+  </g>
+</svg>
