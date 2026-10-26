@@ -1,0 +1,6 @@
+api/config.php
+api/check_connection.php
+api/check_ports.php
+*.log
+.DS_Store
+Thumbs.db

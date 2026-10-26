@@ -1,0 +1,39 @@
+<svg width="900" height="640" viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lechona tolimense con cerdo, arroz y alcaparras">
+  <defs>
+    <linearGradient id="bgL" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f0d18b"/>
+      <stop offset="100%" stop-color="#d3884b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="640" fill="url(#bgL)"/>
+
+  <ellipse cx="450" cy="336" rx="305" ry="185" fill="#f8f3ec"/>
+  <ellipse cx="450" cy="336" rx="250" ry="145" fill="#efe8df"/>
+
+  <path d="M275 380 C325 272, 575 268, 627 386 C620 465, 505 500, 450 502 C395 505, 285 465, 275 380Z" fill="#b95d3e"/>
+  <path d="M312 384 C355 315, 548 314, 592 388 C585 444, 510 472, 450 474 C390 471, 319 444, 312 384Z" fill="#c96c4d"/>
+
+  <g fill="#f5e2ae">
+    <ellipse cx="410" cy="310" rx="48" ry="28"/>
+    <ellipse cx="500" cy="305" rx="48" ry="28"/>
+    <ellipse cx="454" cy="350" rx="100" ry="46"/>
+  </g>
+
+  <g fill="#7e9d2d">
+    <ellipse cx="330" cy="402" rx="18" ry="24"/>
+    <ellipse cx="390" cy="416" rx="18" ry="24"/>
+    <ellipse cx="510" cy="416" rx="18" ry="24"/>
+    <ellipse cx="570" cy="402" rx="18" ry="24"/>
+  </g>
+
+  <g fill="#f7e9d0">
+    <ellipse cx="226" cy="362" rx="44" ry="28"/>
+    <ellipse cx="680" cy="362" rx="44" ry="28"/>
+    <ellipse cx="450" cy="262" rx="46" ry="22"/>
+  </g>
+
+  <g fill="#d4ac5f">
+    <ellipse cx="333" cy="340" rx="28" ry="18"/>
+    <ellipse cx="564" cy="340" rx="28" ry="18"/>
+  </g>
+</svg>
